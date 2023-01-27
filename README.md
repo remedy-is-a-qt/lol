@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Change text font family HTML </title>
+<title>Change text font family</title>
 <style>
-body {
-font-family: courier
+body{
+background: black;
+place-items: center;
+font-family: courier;
 }
  </style>
 </head>
