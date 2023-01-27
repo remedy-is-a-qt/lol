@@ -13,6 +13,6 @@ place-items: center;
 </head>
 <body> 
 <h1> You just got hacked by melody :) </h1>
-<p> Have fun disconnecting from xbox <3 </p>
+<p> Have fun disconnecting from xbox </p>
 </body>
 </html>
