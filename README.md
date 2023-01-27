@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Change text font family HTML</title>
+<title>Change text font family HTML </title>
 <style>
 body {
 font-family: courier
@@ -10,6 +10,6 @@ font-family: courier
 </head>
 <body> 
 <h1> You just got hacked by melody :) </h1>
-<p> Have fun disconnecting from your xbox <3 </p>
+<p> Have fun disconnecting from xbox <3 </p>
 </body>
 </html>
