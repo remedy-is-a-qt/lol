@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Change text font family</title>
+<meta charset="utf-8">
+<meta name-"viewport" content="width=device-width, initial-scale=1"> 
+<title>change text color</title>
 <style>
 body{
 background: black;
 place-items: center;
-font-family: courier;
 }
  </style>
 </head>
